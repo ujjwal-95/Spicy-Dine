@@ -6,13 +6,13 @@ A responsive and feature-rich restaurant website showcasing three distinct dinin
 
 
 ## TECH STACK
-â˜‘Frontend: React.js, Tailwind CSS
+☑Frontend: React.js, Tailwind CSS
 
-â˜‘State Management: React Hooks
+☑State Management: React Hooks
 
-â˜‘Routing: React Router
+☑Routing: React Router
 
-â˜‘Animation: Tailwind Transitions
+☑Animation: Tailwind Transitions
 
 
 
@@ -20,15 +20,15 @@ A responsive and feature-rich restaurant website showcasing three distinct dinin
 ## Functionality
 
 
-âœ…Unique Dining Experiences: Explore three distinct dining environments with smooth navigation.
+✅Unique Dining Experiences: Explore three distinct dining environments with smooth navigation.
 
-âœ…Dynamic Menu Slider: Showcase restaurant menus with an interactive image slider.
-
-
-âœ…Booking Feature: Book your preferred dining experience easily.
+✅Dynamic Menu Slider: Showcase restaurant menus with an interactive image slider.
 
 
-âœ…Responsive Design: Fully functional across all devices (mobile, tablet, and desktop).
+✅Booking Feature: Book your preferred dining experience easily.
+
+
+✅Responsive Design: Fully functional across all devices (mobile, tablet, and desktop).
 
 
 ## Installation and Setup
